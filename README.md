@@ -1,1 +1,1 @@
-A python toolbox for Structural Balance Theory
+Code used for the analysis of brain networks using Structural Balance Theory during my PhD
