@@ -1,1 +1,1 @@
-# A python toolbox for Structural Balance Theory
+A python toolbox for Structural Balance Theory
