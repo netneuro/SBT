@@ -1,5 +1,4 @@
 # Functions used in invalid_subjects.py as my_functions
-# Written by: Zahra Mor | Feb 2021
 
 import numpy as np
 import math
